@@ -29,7 +29,6 @@ public class Character {
 		characterList.add(new Character("Battleship"));
 		characterList.add(new Character("Canon"));
 		characterList.add(new Character("Racecar"));
-		characterList.add(new Character("Purse"));
 		characterList.add(new Character("Rocking Horse"));
 		characterList.add(new Character("Scottish Dog"));
 		
